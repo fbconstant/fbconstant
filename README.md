@@ -1,13 +1,14 @@
 <h1>Hi, I'm Fabrice, an IT Professional </a>☺</h1>
-  - <b>Microsoft Azure Entra ID</b>
-  - [Creating User's in Entra ID](https://github.com/fbconstant/User-Accounts)
-  - [Cloud Provisioning - P2 Licensing]()
-  - [Role Assignments]()
-  - [Group Assignments]()
-  - [Identity Lifecycle]()
-  - [Audit Logs]()
-  - [Sign-In Logs]()
-  - [Authentication]()
+
+ - <b>Microsoft Azure Entra ID</b>
+    - [Creating User's in Entra ID](https://github.com/fbconstant/User-Accounts)
+    - [Cloud Provisioning - P2 Licensing]()
+    - [Role Assignments]()
+    - [Group Assignments]()
+    - [Identity Lifecycle]()
+    - [Audit Logs]()
+    - [Sign-In Logs]()
+    - [Authentication]()
   - <b>Deployment, Networking, Troubleshooting</b>
   - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
   - [Creating and Managing Local Users]()

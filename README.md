@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fabrice, an IT Professional </a>☺</h1>
+<h1>Hi, I'm Fabrice an IT Professional </a>☺</h1>
 
  - <b>Microsoft Azure Entra ID</b>
     - [Creating User's in Entra ID](https://github.com/fbconstant/User-Accounts)
